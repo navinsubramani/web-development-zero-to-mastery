@@ -1,0 +1,65 @@
+/* Syntax of CSS is::after
+
+Selector {
+    Property1: Value;
+    Property2: Value;
+}
+
+*/
+
+body {
+    background: url(cool-background.png);
+    background-attachment: scroll;
+}
+
+
+.nav_ul_style {
+    color: black;
+    background-color: #EEEEEE;
+    text-align: end;
+    list-style: none;   
+
+}
+
+.nav_item_style {
+    text-decoration: none;
+}
+
+.nav_item_highlight:hover {
+    background-color: darkgray;
+    color: white;
+}
+
+section h2 {
+    color: white;
+    background-color: gray;
+    text-align: center;
+    text-decoration: solid;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 10px;
+}
+
+img {
+    float: left;
+}
+
+p {
+    color: black;
+    background-color: #EEEEEE;
+    text-decoration: none;
+    text-transform: capitalize;
+    line-height: 20px;
+    font-style: italic;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;    
+}
+
+.highlight_para:hover {
+    color: darkgray;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}

@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(20,189,172);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: 'Segoe UI';
+    border-bottom: solid 2px white;
+}
+
+.board {
+    background-color: rgb(13,161,146);
+    width: 250px;
+    height: 250px;
+}
+
+.cell1,  
+.cell2,
+.cell3,
+.cell4,
+.cell5,
+.cell6,
+.cell7,
+.cell8,
+.cell9 {
+    background-color: rgb(20,189,172);
+    width: 80px;
+    height: 80px;
+    transition: all 1s;
+}
+
+.cell1,  
+.cell2,
+.cell4,
+.cell5,
+.cell7,
+.cell8 {
+    margin-right: 5px;
+}
+
+.cell1,  
+.cell2,
+.cell3,
+.cell4,
+.cell5,
+.cell6 {
+    margin-bottom: 5px;
+}
+
+
+.row1,
+.row2,
+.row3 {
+    display: flex;
+}
+
+.cell1:hover,  
+.cell2:hover,
+.cell3:hover,
+.cell4:hover,
+.cell5:hover,
+.cell6:hover,
+.cell7:hover,
+.cell8:hover,
+.cell9:hover {
+    transform: scale(1.1);
+    background-color: rgb(91, 192, 182);
+}
