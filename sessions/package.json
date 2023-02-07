@@ -1,0 +1,23 @@
+{
+  "name": "zero-to-mastery",
+  "version": "1.0.0",
+  "description": "This repository is a learning excercis for web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "browserify 18.npm/index.js > 18.npm/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navinsubramani/web-development-zero-to-mastery.git"
+  },
+  "author": "Navin Subramani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navinsubramani/web-development-zero-to-mastery/issues"
+  },
+  "homepage": "https://github.com/navinsubramani/web-development-zero-to-mastery#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
