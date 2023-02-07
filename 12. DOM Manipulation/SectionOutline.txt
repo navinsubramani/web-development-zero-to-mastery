@@ -1,0 +1,37 @@
+DOM Selectors:
+
+getElementByTagName()
+getElementByClassName()
+getElementById()
+
+querySelector()
+querySelectorAll()
+
+getAttribute()
+setAttribute()
+
+###Changing Styles:
+
+style.{property} //ok
+
+className //best
+classList //best
+
+classList.add
+classList.remove
+classList.toggle
+
+###Bonus
+
+innerHTML //Dangerous
+
+parentElement
+children
+
+###It is important to cache the selectors in variables
+
+## Create Elements
+
+document.createElement
+document.createTextNode
+appendChild
