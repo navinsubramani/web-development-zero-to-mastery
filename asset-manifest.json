@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-development-zero-to-mastery/static/css/main.25972fcb.css",
+    "main.js": "/web-development-zero-to-mastery/static/js/main.017ed1e1.js",
+    "static/js/787.32032a02.chunk.js": "/web-development-zero-to-mastery/static/js/787.32032a02.chunk.js",
+    "static/media/Gamer Station.woff": "/web-development-zero-to-mastery/static/media/Gamer Station.79f78b524f68230664fe.woff",
+    "index.html": "/web-development-zero-to-mastery/index.html",
+    "main.25972fcb.css.map": "/web-development-zero-to-mastery/static/css/main.25972fcb.css.map",
+    "main.017ed1e1.js.map": "/web-development-zero-to-mastery/static/js/main.017ed1e1.js.map",
+    "787.32032a02.chunk.js.map": "/web-development-zero-to-mastery/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25972fcb.css",
+    "static/js/main.017ed1e1.js"
+  ]
+}
