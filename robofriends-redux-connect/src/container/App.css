@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Gamer Station Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gamer Station Regular'), url('..\\fonts\\Gamer Station.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Gamer Station Regular';
+    color:rgb(20,189,172);
+    ;
+}
